@@ -1,0 +1,187 @@
+/*全体　共通
+最初から設定してあるので特に変更
+しなくても大丈夫です♪
+-----------------*/
+body {
+	font-family: Roboto, "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", "メイリオ", sans-serif;
+	line-height: 1.75;
+	font-size: 16px;
+	width: 960px;
+	display: block;
+	margin: 0 auto;
+}
+
+
+/*　パディングをサイズ内側にする処理　*/
+* {
+	padding: 30px;
+	margin: 60px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.sekai {
+	background: url(../img/mainbg.png);
+	background-size: cover;
+	background-position: center;
+	height: 335px;
+}
+
+.hed img {
+	width: 50%;
+}
+
+.hed_box2 {
+	padding: 1%;
+}
+
+.hed_box2 li {
+	float: left;
+	padding: 3% 50px 3% 0px;
+	font-size: 2.1rem;
+	list-style: none;
+}
+
+h1 {
+	font-size: 48px;
+	height: 200px;
+	color: bisque;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.p1 {
+	text-align: center;
+	font-size: 36px;
+	color: aliceblue;
+	height: 250px;
+}
+
+.hed_box {
+	display: flex;
+	width: 15%;
+}
+
+.hed_box2 {
+	display: flex;
+}
+
+.about-gozou {
+	display: flex;
+}
+
+.about-img {
+	width: 25%;
+}
+
+.about-2 {
+	display: flex;
+
+}
+
+.about-2-1 {
+	width: 50%;
+}
+
+.about-2-2 {
+	width: 50%;
+}
+
+.course-1 {
+	display: flex;
+}
+
+.course-1-1 {
+	width: 50%;
+}
+
+.course-1-2 img {
+	width: 70%;
+
+}
+
+.ti-zu-1 {
+	display: flex;
+}
+
+.ti-zu-1-1 {
+	width: 50%;
+}
+
+.ti-zu-1-2 {
+	width: 50%;
+}
+
+.ti-zu3 {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.ti-zu-3-1 {
+	width: 30%;
+}
+
+.ti-zu-3-1 img {
+	width: 100%;
+}
+
+
+.ti-zu-3-2 {
+	width: 30%;
+}
+
+.ti-zu-3-2 img {
+	width: 100%;
+}
+
+.ti-zu-3-3 {
+	width: 30%;
+}
+
+.ti-zu-3-3 img {
+	width: 100%;
+
+}
+
+.news-1 {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+}
+
+
+
+
+
+
+
+/*どの部分のcssに対して
+命令をしているのかコメントを
+記載しよう！
+---------------------*/
+
+
+/*
+---------------------*/
+
+
+
+/*
+---------------------*/
+
+
+
+/*
+---------------------*/
+
+
+
+/*
+---------------------*/
